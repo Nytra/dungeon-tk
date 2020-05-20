@@ -16,8 +16,6 @@
 
 ![Inventory](https://github.com/Nytra/Python3_RPG_DungeonCrawler/blob/master/inventory.PNG)
 
-![Enemy Hurt](https://github.com/Nytra/Python3_RPG_DungeonCrawler/blob/master/enemy_hurt.png)
-
 ![Werewolf](https://github.com/Nytra/Python3_RPG_DungeonCrawler/blob/master/werewolf.PNG)
 
 ![Werewolf Defeated](https://github.com/Nytra/Python3_RPG_DungeonCrawler/blob/master/werewolf_defeated.PNG)
