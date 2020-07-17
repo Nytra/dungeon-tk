@@ -1,4 +1,4 @@
-# dungeon_tk
+# dungeon-tk
 
 A Python + Tkinter RPG game!
 
